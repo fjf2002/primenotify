@@ -56,6 +56,6 @@ $lang = array_merge($lang, array(
 	'UCP_PRIMENOTIFY_KEEP_BBCODES_EXPLAIN'	=> 'Emails werden als "nur Text" versendet. Somit werdendie BBCode-Formatierungen nicht berücksichtigt um den Email-Text zu formatieren (Bsp.: Ein, im Beitrag, fett dargestelltes <b>Wort</b> wird in der Email als [b]Wort[/b] dargestellt).<br> 
                                                 Die Einstellung "Ja" zeigt also die BBCodes in der Mail an. "Nein" löscht die BBCodes in der Email.',
 	'UCP_PRIMENOTIFY_ALWAYS_SEND'			=> 'Immer Benachrichtigen',
-	'UCP_PRIMENOTIFY_ALWAYS_SEND_EXPLAIN'	=> '"Ja" sendet bei jedem neuen Beitrag in abonnierten Thema eine Benachrichtigung, unabhängig davon ob Du das Thema zwischenzeitlich besucht hast oder nicht.<br> 
-                                                "Nein" sendet eine neue Benachrichtigung in dem Thema nur dann, wenn Du das Thema besucht hast.',
+	'UCP_PRIMENOTIFY_ALWAYS_SEND_EXPLAIN'	=> '"Ja" sendet bei jedem neuen Beitrag in abonnierten Thema eine Benachrichtigung, unabhängig davon ob das Thema zwischenzeitlich besucht wurde oder nicht.<br> 
+                                                "Nein" sendet eine neue Benachrichtigung in dem Thema nur dann, wenn das Thema besucht wurde.',
 ));
